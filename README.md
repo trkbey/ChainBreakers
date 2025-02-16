@@ -1,4 +1,5 @@
-
+Vİdeo linki
+https://youtu.be/XFQkWtirUCQ?si=o0u-RaViBLDVEr15
 
 Bu proje, blockchain teknolojisi kullanarak bir freelancer iş alma platformu oluşturmayı hedefler. Platform, işverenler ile freelancerlar arasında iş anlaşmazlıklarını çözerken şeffaflık ve güvenliği artırmak için geliştirilmiştir.
 
